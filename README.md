@@ -1,4 +1,5 @@
-# GSTN_940
+# no-code-ml-mpodel-training-app
+Streamlit based no code ML model training web application
 
 ## Clone the Repository
 git clone https://github.com/RoystonV/GSTN_940.git
