@@ -1,14 +1,14 @@
-# no-code-ml-mpodel-training-app
-Streamlit based no code ML model training web application
+# No-code-ml-mpodel-training-app
+Streamlit based no code ML model training WESITE THAT RUN'S LOCAL 
 
-## Clone the Repository
+#### Clone the Repository
 git clone https://github.com/RoystonV/GSTN_940.git
 cd GSTN_940
 
-## Install Dependencies
+#### Install Dependencies
 pip install -r requirements.txt
 
-## Run the Application
+#### Run the Application
 cd src
 </br>
 streamlit run main.py
