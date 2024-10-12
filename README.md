@@ -1,8 +1,13 @@
 # GSTN_940
 
-git clone https://github.com/RoystonV/GSTN_940.git 
-<br />
+## Clone the Repository
+git clone https://github.com/RoystonV/GSTN_940.git
 cd GSTN_940
-<br />
+
+## Install Dependencies
 pip install -r requirements.txt
+
+## Run the Application
+cd src
+streamlit run main.py
 
